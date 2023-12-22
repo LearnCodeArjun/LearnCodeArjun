@@ -1,4 +1,4 @@
-![logo](https://github.com/LearnCodeArjun/LearnCodeArjun/blob/main/145.jpg)
+![logo](https://github.com/LearnCodeArjun/LearnCodeArjun/blob/main/aarj.jpg)
 
 <h1 align="center">Hi 👋, I'm Arjun Kumar</h1>
 <h3 align="center">I am Backend Java developer from India</h3>
