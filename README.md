@@ -2,6 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Arjun Kumar</h1>
 <h3 align="center">I am Backend Java developer from India</h3>
+🎈I'm currently working... Springboot Application <br>
+💬 Knowledge->core java,jdbc,Hibernate,springboot,Jpa <br>
+🌈How to reach me:-<a href="https://www.linkedin.com/in/arjun-gupta-589447257? 
+             utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">ARJUN GUPTA</a><br>
+             ⚡ Fun fact **😊(●'◡'●) A Java developer’s median salary is $83, 975.00. It pays to be a Java developer
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -9,9 +14,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Project**
 
-- ⚡ Fun fact **😊(●'◡'●)**
+
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
